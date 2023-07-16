@@ -384,6 +384,9 @@ media\ultimate_states\ultimate_bloodhound_active.bik
 media\ultimate_states\ultimate_bloodhound_intro.bik
 media\ultimate_states\ultimate_bloodhound_ready.bik
 media\ultimate_states\ultimate_bloodhound_use.bik
+paks\Win64\common_flowstate_small.rpak
+paks\Win64\common_flowstate_small.starpak
+paks\Win64\ui_flowstate.rpak
 paks\Win64\common(01).rpak
 paks\Win64\common(02).rpak
 paks\Win64\common.rpak
